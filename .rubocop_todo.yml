@@ -42,7 +42,6 @@ Lint/Loop:
 Lint/RescueException:
   Exclude:
     - 'features/lib/support/fake_wire_server.rb'
-    - 'lib/cucumber/cli/main.rb'
     - 'lib/cucumber/configuration.rb'
     - 'lib/cucumber/glue/invoke_in_world.rb'
     - 'lib/cucumber/formatter/ansicolor.rb'
